@@ -1,3 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 It creates a .git directory. I need to initialize in order to let git track files from this repository.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is where changed files are temporarily stored before commiting the changes. It gives control on when to finally save the commit or cancel it later.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are helpful when you want to do something expeimental but not sure if will be implemented. It keeps the main branch clean and safe. Especially when other contributors are also working on it.
