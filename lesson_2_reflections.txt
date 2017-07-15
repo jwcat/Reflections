@@ -10,3 +10,7 @@ Branches are helpful when you want to do something expeimental but not sure if w
 
 How do the diagrams help you visualize the branch structure?
 It shows branches and thier parent, it also show commits on each branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging branches merges the commits of the two branches. We represent in the diagram to show how the commits are merged and what commits are to be merged.
+
