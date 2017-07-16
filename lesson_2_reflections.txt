@@ -14,3 +14,5 @@ It shows branches and thier parent, it also show commits on each branch.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging branches merges the commits of the two branches. We represent in the diagram to show how the commits are merged and what commits are to be merged.
 
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Automatic merging is fast but you don't have total control of whose version will be implemented. When doing manually you can decide what updates to be followed.
