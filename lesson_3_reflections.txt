@@ -4,3 +4,5 @@ I want to use remote repository when I want some remote contributors and when I 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 So that I know what has changed or commited from the remote repository first.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is GitHubs way of cloning used when cloning other user's Gihub repository to our own GitHub account. Clones are copies of repository either from remote or from local. Branches are copies of repository which also sits on the repository. 
