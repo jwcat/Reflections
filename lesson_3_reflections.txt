@@ -9,3 +9,6 @@ Fork is GitHubs way of cloning used when cloning other user's Gihub repository t
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The benefit is you can easily merge commits, fast forward commit.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without Git or GitHub I would just give a copy of my source. Git and Git would be so much easier though.
