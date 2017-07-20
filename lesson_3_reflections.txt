@@ -12,3 +12,6 @@ The benefit is you can easily merge commits, fast forward commit.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Without Git or GitHub I would just give a copy of my source. Git and Git would be so much easier though.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I make changes in separate branch when I make an experimental functionality. The benefits on working in a separate branch is that we can freely mess up the separate bch while keeping the main intact. The benefit of working directly in master is a lot less complicated.
